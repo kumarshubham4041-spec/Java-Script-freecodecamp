@@ -1,3 +1,4 @@
+// Build a Sentence Maker
 let adjective;
 let noun;
 let verb;
